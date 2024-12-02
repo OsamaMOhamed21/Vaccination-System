@@ -7,7 +7,7 @@ class user {
 
 int main()
 {
-	cout << "osama";
+	cout << "oazsxxcssxcxsama";
 	if (1==0)
 	{
 		cout << "osama";
